@@ -1,13 +1,14 @@
 # Hi, I'm Ayush Mathur
 
-Aspiring Business, Data, and Supply Chain Analyst with an MBA and engineering background. I build analytics, reporting, and business intelligence projects using SQL, Tableau, Excel, and Power BI to solve operational, business, and supply chain problems.
+Aspiring Business, Data, and Supply Chain Analyst with a business and engineering background. I build analytics, reporting, and business intelligence projects using SQL, Tableau, Excel, and Power BI to solve operational, business, and supply chain problems.
 
 ---
 
 ## About Me
 
-- MBA from Vancouver Island University, Canada
-- Engineering background with experience in supply chain, operations, and consulting
+- Master of Business Administration from Vancouver Island University, Canada
+- Bachelor of Technology in Mechanical Engineering from Vellore Institute of Technology
+- Experience across supply chain, operations, and consulting
 - Interested in Business Analysis, Data Analytics, and Supply Chain Analytics roles
 - Focused on using data to improve decision-making, process efficiency, and business performance
 
