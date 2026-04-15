@@ -1,7 +1,7 @@
 # Hi, I'm Ayush Mathur
 
-Aspiring Business and Data Analyst with an MBA and engineering background.  
-Building analytics and business intelligence projects using SQL, Tableau, Excel, and Power BI.
+Aspiring Business, Data, and Supply Chain Analyst with an MBA and engineering background.  
+Building analytics and business intelligence projects using SQL, Tableau, Excel, and Power BI to solve operational and business problems.
 
 ---
 
@@ -9,8 +9,8 @@ Building analytics and business intelligence projects using SQL, Tableau, Excel,
 
 - Master's in Business Analytics Candidate at University of Rochester
 - MBA Graduate with prior experience in Supply Chain, Operations, and Consulting
-- Interested in Business Analysis, Data Analytics, and Strategy roles
-- Passionate about solving business problems using data
+- Interested in Business Analysis, Data Analytics, and Supply Chain Analytics roles
+- Passionate about improving business and operational performance through data-driven decision making
 
 ---
 
@@ -43,10 +43,11 @@ Evaluated analytics job postings to identify high-demand technical and business 
 - Advanced SQL
 - Data Warehousing
 - Dashboard Design
-- Business Analytics
+- Supply Chain Analytics
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: [[www.linkedin.com/in/ayushmathur001](https://www.linkedin.com/in/ayushmathur001/)]
+- LinkedIn: [ayushmathur001](https://www.linkedin.com/in/ayushmathur001/)
+- Email: mathur.ayush001@gmai.com
